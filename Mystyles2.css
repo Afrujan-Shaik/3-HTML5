@@ -1,0 +1,30 @@
+nav,header{
+    background-color:lightblue;
+    color:cornflowerblue;
+    padding: 10px;
+}
+nav ul{
+    list-style-type: circle;
+    margin: 0;
+    padding: 10px;
+}
+nav ul li{
+    display: inline;
+    color:azure;
+    text-decoration:none;
+}
+nav ul li a:hover{
+    text-decoration:underline;
+}
+section, p{
+    background-color: antiquewhite;
+}
+footer{
+    background-color:azure;
+    color:rgb(27, 117, 117);
+    text-align: center;
+    padding: 10px;
+}
+h1,h2{
+    color: darkblue;
+}
